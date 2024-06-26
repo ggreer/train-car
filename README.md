@@ -5,7 +5,7 @@ This repo contains the files needed to print a little train car to put some lego
 The designs were originally made with OpenSCAD. The STL renders are also provided so you don't have to install OpenSCAD yourself.
 
 
-### Printing tips
+## Printing tips
 
 - Make sure your printer is dialed in and your filament is dry. If there's too much stringing or overextrusion, the axles will stick to the body.
 - Pick a Z seam alignment that puts the seam on the bottom of the axle holes. The smoother the top of the holes for the axles, the better the wheels will spin.
@@ -15,3 +15,9 @@ The designs were originally made with OpenSCAD. The STL renders are also provide
 
 ![](/train-cura-02.png)
 
+
+## Example Prints
+
+![](/IMG_4346.jpg)
+
+![](/IMG_4347.jpg)
